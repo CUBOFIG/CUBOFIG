@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![whoiam](https://user-images.githubusercontent.com/50375089/121972788-8a317f00-cd41-11eb-86e5-6b92bfa3e0c3.png)
+
 <!--
 **CUBOFIG/CUBOFIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
